@@ -1,6 +1,4 @@
-# AspNetCore-BlogAPI
-
-# ASP.NET Core 7 - BlogAPI
+# ASP.NET Core - BlogAPI
 This project is a simple RESTful API for a blog platform. It allows users to perform CRUD (Create, Read, Update, Delete) operations on blog posts. 
 Each blog post consists of a title, a body, and a publish date. Additionally, the API supports filtering the list of blog posts by publish date.
 Additionally, user authentication and authorization have been implemented to ensure that only authenticated users can create, update, and delete blog posts. 
