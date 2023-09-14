@@ -19,3 +19,6 @@ Additionally, user authentication and authorization have been implemented to ens
   • GET /api/blogs/{id}: Retrieve details of a specific blog. <br />
   • PUT /api/blogs/{id}: Update the details of a blog. <br />
   • DELETE /api/blogs/{id}: Delete a blog. <br />
+  
+# Unit Testing
+This project includes unit tests to ensure the functionality and reliability of the API. I used `xUnit.net` testing framework for writing and running unit tests.
