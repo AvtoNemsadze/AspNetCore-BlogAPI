@@ -11,7 +11,7 @@ Additionally, user authentication and authorization have been implemented to ens
  # API Endpoints
   <strong>Auth</strong> <br />
   • POST /api/auth/register: Register a new user. <br />
-  • POST /api/auth/login: Authenticate a user and generate access and refresh tokens. <br />
+  • POST /api/auth/login: Authenticate a user and generate a valid token. <br />
   
  <strong>Blog</strong> <br />
   • POST /api/blogs: Create a new blog. <br />
